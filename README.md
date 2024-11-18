@@ -1,2 +1,3 @@
 # Crud-Demo
-Asp.net MVC Basic Crud Funtionality 
+First project of Asp.net MVC C# Basic Crud Funtionality 
+Author - ZeeDecodes
